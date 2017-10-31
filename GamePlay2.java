@@ -1,5 +1,5 @@
 import greenfoot.*;  
-
+//alhamdulillah
 public class GamePlay2 extends World
 {
     scoreActor skor = new scoreActor();
